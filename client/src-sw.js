@@ -30,7 +30,7 @@ registerRoute(
   // Caches JS, CSS, and worker files
   ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
   new StaleWhileRevalidate({
-    // cache storage nam
+    // cache storage name
     cacheName: 'JATE-Cache',
     plugins: [
       new CacheableResponsePlugin({

@@ -1,7 +1,5 @@
 const butInstall = document.getElementById('buttonInstall');
 
-// Logic for installing the PWA
-
 // Store the triggered events if not installed
 window.addEventListener('beforeinstallprompt', (event) => {
   // Prevent the mini-infobar from appearing 
