@@ -18,9 +18,6 @@ For local install, clone my repository then open you favorate Terminal and run t
     - npm Install to install required dependencies
     - run start to start the app
 
-## Live Link 🎮
-https://mytexteditor-g7ak.onrender.com
-
 ## License
       This application is covered by the MIT license.
 
