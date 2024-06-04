@@ -15,8 +15,9 @@ This application will allow the User to run and use a text editor. It can be ins
 
 ## Installation ⚙️
 For local install, clone my repository then open you favorate Terminal and run the following:
-    - npm Install to install required dependencies
-    - run start to start the app
+
+- 'npm Install' to install required dependencies
+- 'run start' to start the app
 
 ## License
       This application is covered by the MIT license.
